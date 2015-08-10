@@ -1,0 +1,2 @@
+mv is the move command. To be used with parameters, the first of which specifies the file you want to move and the second
+is the new path for the file to be moved to, including the filename. This command can also be used to change the name of a file.
